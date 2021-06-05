@@ -1,5 +1,5 @@
 # PROTAC-Model_benchmark
-native_bound.dpb: PROTAC-mediated ternary complex  
+native_bound.pdb: PROTAC-mediated ternary complex  
   
 protac.sml: The smiles file of PROTAC  
   
