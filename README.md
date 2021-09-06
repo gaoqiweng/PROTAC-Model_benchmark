@@ -1,5 +1,5 @@
 # PROTAC-Model_benchmark
-native_bound.pdb: Crystal structure of PROTAC-mediated ternary complex  
+PDB_chain.pdb: Crystal structure of PROTAC-mediated ternary complex  
   
 protac.smi: The smiles file of PROTAC  
   
